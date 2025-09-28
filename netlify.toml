@@ -1,0 +1,4 @@
+[build]
+  base = "money-manager-pwa"
+  publish = "money-manager-pwa/build"
+  command = "npm run build"
